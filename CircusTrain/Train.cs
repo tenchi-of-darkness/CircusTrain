@@ -12,7 +12,7 @@ public class Train
     {
         List<Wagon> wagons = new();
 
-        
+        //First fill with large carnivores
         IAnimal[] largeCarnivores = animals.Where(a => a.IsCarnivore && a.Size == AnimalSize.Large).ToArray();
         foreach (IAnimal animal in largeCarnivores)
         {
@@ -20,7 +20,7 @@ public class Train
             animals.Remove(animal);
         }
 
-        
+        //Medium Carnivoresen compatible 
         List<IAnimal> mediumCarnivores = animals.Where(a => a.IsCarnivore && a.Size == AnimalSize.Medium).ToList();
         List<IAnimal> compatibleWithMediumCarnivore =
             animals.Where(a => !a.IsCarnivore && a.Size == AnimalSize.Large).ToList();

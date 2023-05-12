@@ -1,10 +1,10 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e4446c0_002D2646_002D48bb_002Dbcd7_002D714f74ddfc3d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestTrain" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e4446c0_002D2646_002D48bb_002Dbcd7_002D714f74ddfc3d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestTrain" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::72E463E5-7E4C-4A3C-A9B3-E6351831FBF2::net6.0::CircusTrain.Tests.UnitTest1.TestTrain&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f03235b2_002D370b_002D4617_002Dafc5_002D7f683c284917/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestTrain #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f03235b2_002D370b_002D4617_002Dafc5_002D7f683c284917/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestTrain #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Or&gt;&#xD;
     &lt;TestAncestor&gt;&#xD;
       &lt;TestId&gt;xUnit::72E463E5-7E4C-4A3C-A9B3-E6351831FBF2::net6.0::CircusTrain.Tests.UnitTest1&lt;/TestId&gt;&#xD;
